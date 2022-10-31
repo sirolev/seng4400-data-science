@@ -1,2 +1,3 @@
-# seng4400-data-science
-Data Science class assignments
+## Data Science class assignments
+
+* project3 : KMeans Clustering
